@@ -1,15 +1,13 @@
 # Recreating-Life-bar-of-League-of-Legends
  Player HUD bar like League of legends in Unity
  
- Hello, this project recreates the life bar of the league of legends.
+This proyect includes:
 
- It includes:
-  #Show character level
-  #Show Summoner Name
-  #Show current life
-  #Show shield bar
-  #Show damage bars
-  #Show maximum health items
-  
-  You can follow me in my social
-  Twitter/Cafungo
+* Show the level and player name
+* Current health of player
+* Mana of player
+* Bar of shield
+* Hit impact/Bar effect
+* Health Máx visual elements
+
+You can follow me in my social media [Twitter](https://twitter.com/Cafungo)
